@@ -1,5 +1,7 @@
 # 💖 Operacioni: FALJE 🇦🇱
 
+Created by **Erion Nezha**
+
 Një lojë e vogël (dhe shumë serioze 😄) për të kërkuar falje — kap zemrat, shmang inatet, fito faljen.
 
 ![Pamje nga demo](screenshot.png)
@@ -47,6 +49,8 @@ Copyright © 2026 Erion Nezha. Të gjitha të drejtat e rezervuara.
 ---
 
 # 💖 Operation: FORGIVENESS 🇬🇧
+
+Created by **Erion Nezha**
 
 A small (and very serious 😄) game for asking forgiveness — catch the hearts, dodge the grudges, earn forgiveness.
 
